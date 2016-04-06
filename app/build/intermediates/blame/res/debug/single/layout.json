@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/layout/activity_contact.xml",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/layout/activity_contact_map.xml",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/layout/activity_contact_map.xml"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/layout/dateselect.xml",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/layout/dateselect.xml"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/layout/activity_contact_list.xml",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/layout/activity_contact_list.xml"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/layout/activity_contact_settings.xml",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/layout/activity_contact_settings.xml"
+    }
+]

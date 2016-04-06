@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/menu/contact_list.xml",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/menu/contact_list.xml"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/menu/contact.xml",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/menu/contact.xml"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/menu/contact_settings.xml",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/menu/contact_settings.xml"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/menu/contact_map.xml",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/menu/contact_map.xml"
+    }
+]

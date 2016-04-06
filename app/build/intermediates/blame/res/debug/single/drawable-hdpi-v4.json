@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/appicon.png",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/drawable-hdpi/appicon.png"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/photoiconsmall.png",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/drawable-hdpi/photoiconsmall.png"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/contactlisticon.png",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/drawable-hdpi/contactlisticon.png"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mapicon.png",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/drawable-hdpi/mapicon.png"
+    },
+    {
+        "merged": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/settingsicon.png",
+        "source": "/Users/Niruta/AndroidStudioProjects/MyContactList/app/src/main/res/drawable-hdpi/settingsicon.png"
+    }
+]
